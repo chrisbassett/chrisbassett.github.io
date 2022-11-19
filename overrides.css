@@ -9,3 +9,12 @@
   color: #ffffff;
   background-color: #343a40;
 }
+
+.cb-cardlink {
+  color: #ffffff;
+  text-decoration: none;
+}
+.cb-cardlink:hover, .cb-cardlink:active {
+  color: #ffffff;
+  text-decoration: underline;
+}
