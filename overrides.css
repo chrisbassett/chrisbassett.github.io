@@ -1,3 +1,7 @@
+body{
+  margin: 0;
+}
+
 .header-image {
   background-image:url("images/header.png");
   background-repeat: no-repeat;
@@ -10,11 +14,11 @@
   background-color: #343a40;
 }
 
-.cb-cardlink {
+.cb-cardlink, .cb-navlink{
   color: #ffffff;
   text-decoration: none;
 }
-.cb-cardlink:hover, .cb-cardlink:active {
+.cb-cardlink:hover, .cb-cardlink:active, .cb-navlink:hover, .cb-navlink:active {
   color: #ffffff;
   text-decoration: underline;
 }
