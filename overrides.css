@@ -28,5 +28,5 @@ body{
 }
 
 .carousel {
-  width: 600px;
+  max-width: 600px;
 }
