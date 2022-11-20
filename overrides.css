@@ -26,3 +26,7 @@ body{
 .table {
   font-size: 12px;
 }
+
+.carousel {
+  width: 600px;
+}
