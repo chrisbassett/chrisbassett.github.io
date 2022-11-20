@@ -22,3 +22,7 @@ body{
   color: #ffffff;
   text-decoration: underline;
 }
+
+.table {
+  font-size: 12px;
+}
