@@ -26,3 +26,7 @@ body{
 .table {
   font-size: 12px;
 }
+
+.h3, h3 {
+    font-size: calc(.9rem + .6vw);
+}
